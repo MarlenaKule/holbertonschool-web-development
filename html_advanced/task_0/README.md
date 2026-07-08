@@ -1,7 +1,7 @@
 # holbertonschool-web-development
 
-Inside this project we will create the structure of the web-template
+In this repo we will create the structure of the web-template.
 
-It will be organized in three main sections
+I have structure it in 3 main section.
 
-![alt text](../../header.png)
+![alt text](logo.png)
