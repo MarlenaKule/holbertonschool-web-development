@@ -1,4 +1,47 @@
-footer{
-    background-color: #071629;
+footer {
+  background-color: #071629;
+  height: 118px;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
 }
-width
+
+.footer-container {
+  width: 800px;
+  margin: 0 auto;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo img {
+  width: 30px;
+  height: 30px;
+}
+
+.logo span {
+  color: white;
+  font-weight: bold;
+}
+
+.copy {
+  color: white;
+  margin: 0;
+}
+
+.icons {
+  display: flex;
+  gap: 15px;
+}
+
+.icons img {
+  width: 20px;
+  height: 20px;
+}
